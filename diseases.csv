@@ -1,0 +1,25 @@
+Disease,Fever,Cough,Shortness of Breath,Itching,Skin Rash,Nodal Skin Eruptions,Joint Pain,Stomach Pain,Vomiting,Dark Urine
+Influenza,0,1,0,0,0,0,0,0,0,0
+Common Cold,1,0,1,0,0,0,0,0,0,0
+Nothing,0,0,0,0,0,0,0,0,0,0
+Pneumonia,1,1,0,0,0,0,0,0,0,0
+Bronchitis,0,1,1,0,0,0,0,0,0,0
+Allergic Rhinitis,1,0,0,0,0,0,0,0,0,0
+Tuberculosis,0,0,1,0,0,0,0,0,0,0
+SARS (Severe Acute Respiratory Syndrome),1,1,1,0,0,0,0,0,0,0
+Hepatitis A,0,1,0,0,0,0,0,0,0,0
+Hepatitis B,1,0,1,0,0,0,0,0,0,0
+Fungal Infection,0,0,0,1,1,1,0,0,0,0
+Fungal Infection,0,0,0,1,0,1,0,0,0,0
+Fungal Infection,0,0,0,0,1,0,0,0,0,0
+Drug Reaction,0,0,0,1,1,0,0,1,0,0
+Drug Reaction,0,0,0,1,1,0,0,1,0,0
+Jaundice,0,0,0,1,0,0,0,0,1,0
+GERD,0,1,0,0,0,0,0,1,1,1
+GERD,0,0,0,0,0,0,0,1,1,1
+Chicken Pox,1,0,0,1,1,0,0,0,0,0
+Dengue,1,0,0,0,1,0,1,0,1,0
+Common Cold,1,1,0,0,0,0,0,0,0,0
+Psoriasis,0,0,0,0,1,0,1,0,0,0
+Impetigo,1,0,0,0,1,0,0,0,0,0
+Jaundice,1,0,0,1,0,0,0,0,1,1
